@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "STONE OCEAN",
+  "base_artist": "ichigo from 岸田教団&THE明星ロケッツ",
+  "createdAt": "2026-01-04T08:57:53.998549Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Stone Ocean",
+      "artist": "Dagoba",
+      "has_synced": false,
+      "path": "select/01_Stone_Ocean_Dagoba.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Jolyne Theme (from \"Stone Ocean\")",
+      "artist": "Samuel Kim",
+      "has_synced": true,
+      "path": "select/02_Jolyne_Theme_(from__Stone_Ocean_)_Samuel_Kim.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "STONE OCEAN",
+      "artist": "ichigo from 岸田教団&THE明星ロケッツ",
+      "has_synced": true,
+      "path": "select/03_STONE_OCEAN_ichigo_from_岸田教団&THE明星ロケッツ.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "STONE OCEAN - English Ver.",
+      "artist": "ichigo from 岸田教団&THE明星ロケッツ",
+      "has_synced": true,
+      "path": "select/04_STONE_OCEAN_-_English_Ver._ichigo_from_岸田教団&THE明星ロケッツ.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Stone Ocean",
+      "artist": "Jonathan Young feat. SixteenInMono",
+      "has_synced": false,
+      "path": "select/05_Stone_Ocean_Jonathan_Young_feat._SixteenInMono.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Stone Ocean",
+      "artist": "Jonathan Young",
+      "has_synced": false,
+      "path": "select/06_Stone_Ocean_Jonathan_Young.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Stone Ocean (feat. SixteenInMono)",
+      "artist": "Jonathan Young",
+      "has_synced": false,
+      "path": "select/07_Stone_Ocean_(feat._SixteenInMono)_Jonathan_Young.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Stone Ocean",
+      "artist": "Jonathan Young, SixteenInMono",
+      "has_synced": false,
+      "path": "select/08_Stone_Ocean_Jonathan_Young,_SixteenInMono.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "STONE OCEAN -English Ver.-",
+      "artist": "ichigo from 岸田教団&THE明星ロケッツ",
+      "has_synced": true,
+      "path": "select/09_STONE_OCEAN_-English_Ver.-_ichigo_from_岸田教団&THE明星ロケッツ.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Stone Ocean",
+      "artist": "Young, Jonathan & SixteenInMono",
+      "has_synced": false,
+      "path": "select/10_Stone_Ocean_Young,_Jonathan_&_SixteenInMono.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Stone Ocean (English Version)",
+      "artist": "RichaadEB, OR3O",
+      "has_synced": true,
+      "path": "select/11_Stone_Ocean_(English_Version)_RichaadEB,_OR3O.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "STONE OCEAN -English Ver.-",
+      "artist": "ichigo from 岸田教団&THE明星ロケッツ",
+      "has_synced": true,
+      "path": "select/12_STONE_OCEAN_-English_Ver.-_ichigo_from_岸田教団&THE明星ロケッツ.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Stone Ocean - English Version",
+      "artist": "RichaadEB",
+      "has_synced": true,
+      "path": "select/13_Stone_Ocean_-_English_Version_RichaadEB.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "STONE OCEAN (JoJo’s Bizarre Adventure: Stone Ocean)",
+      "artist": "Miura Jam BR",
+      "has_synced": false,
+      "path": "select/14_STONE_OCEAN_(JoJo’s_Bizarre_Adventure__Stone_Ocean)_Miura_Jam_BR.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "STONE OCEAN",
+      "artist": "ichigo from 岸田教団&THE明星ロケッツ",
+      "has_synced": false,
+      "path": "select/pl_01_STONE_OCEAN_ichigo_from_岸田教団&THE明星ロケッツ.txt"
+    }
+  ]
+}
